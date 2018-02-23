@@ -1,0 +1,23 @@
+Question 1:
+Upload lab03part1-bjc76.asm
+
+Question 2:
+7d7c7b7a
+
+Question 3:
+0x10010001
+
+Question 4:
+0x7a7b7c7d
+
+Question 5:
+the first 7
+
+Question 6:
+7a
+
+Question 7:
+little endian 
+because the most significant bit is at the highest memory address
+
+

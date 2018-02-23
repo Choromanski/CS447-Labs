@@ -1,0 +1,9 @@
+Questions and Answers
+
+1. 	65536
+2.	(-32,767,32,768)
+3.	3c01dead
+	3429beef
+4.	I-format
+5.	dead
+	beef
